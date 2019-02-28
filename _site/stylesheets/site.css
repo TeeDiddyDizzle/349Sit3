@@ -1,0 +1,45 @@
+/* Add site styles here */
+@import url('https://fonts.googleapis.com/css?family=Roboto+Condensed');
+
+body {
+    font-family: 'Roboto Condensed', sans-serif;
+
+}
+
+header {
+    text-align: center;
+}
+
+
+.welcome {
+    border-radius: 0.5px;
+    border-style: solid;
+    border-color: grey;
+}
+
+
+.navigation {
+    border-radius: 0.5px;
+    border-style: solid;
+    border-color: grey;
+    border-radius: 10px;
+    background-color: lightgray;
+}
+
+a {
+    text-decoration: none;
+}
+
+
+.links {
+    border-radius: 0.5px;
+    border-style: solid;
+    border-color: grey;
+    border-radius: 10px;
+    background-color: lightgray;
+}
+
+footer {
+    color: lightgrey;
+    text-align: center;
+}
